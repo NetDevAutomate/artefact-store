@@ -11,6 +11,18 @@
         "slides"
       ],
       "updated": "2026-03-11"
+    },
+    {
+      "name": "notebooklm-pdf-by-chapters",
+      "title": "Notebooklm Pdf By Chapters",
+      "description": "",
+      "artefacts": [
+        "audio",
+        "video",
+        "infographic",
+        "slides"
+      ],
+      "updated": "2026-03-11"
     }
   ]
 }
