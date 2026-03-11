@@ -23,6 +23,15 @@
         "slides"
       ],
       "updated": "2026-03-11"
+    },
+    {
+      "name": "Agent-Speaker",
+      "title": "Agent Speaker",
+      "description": "",
+      "artefacts": [
+        "audio"
+      ],
+      "updated": "2026-03-11"
     }
   ]
 }
