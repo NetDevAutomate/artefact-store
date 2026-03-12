@@ -5,12 +5,11 @@
       "title": "Socratic Study Mentor",
       "description": "",
       "artefacts": [
-        "audio",
         "video",
         "infographic",
         "slides"
       ],
-      "updated": "2026-03-11"
+      "updated": "2026-03-12"
     },
     {
       "name": "notebooklm-pdf-by-chapters",
