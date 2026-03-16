@@ -32,6 +32,18 @@
         "audio"
       ],
       "updated": "2026-03-11"
+    },
+    {
+      "name": "socratic-study-mentor",
+      "title": "Socratic Study Mentor",
+      "description": "",
+      "artefacts": [
+        "audio",
+        "video",
+        "infographic",
+        "slides"
+      ],
+      "updated": "2026-03-16"
     }
   ]
 }
