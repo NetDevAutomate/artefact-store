@@ -1,16 +1,16 @@
 {
   "repos": [
     {
-      "name": "Socratic-Study-Mentor",
+      "name": "socratic-study-mentor",
       "title": "Socratic Study Mentor",
-      "description": "",
+      "description": "AuDHD-aware Socratic study mentor with AI session management",
       "artefacts": [
         "audio",
         "video",
         "infographic",
         "slides"
       ],
-      "updated": "2026-03-15"
+      "updated": "2026-03-16"
     },
     {
       "name": "notebooklm-pdf-by-chapters",
@@ -32,18 +32,6 @@
         "audio"
       ],
       "updated": "2026-03-11"
-    },
-    {
-      "name": "socratic-study-mentor",
-      "title": "Socratic Study Mentor",
-      "description": "",
-      "artefacts": [
-        "audio",
-        "video",
-        "infographic",
-        "slides"
-      ],
-      "updated": "2026-03-16"
     }
   ]
 }
