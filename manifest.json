@@ -25,15 +25,6 @@
       "updated": "2026-03-11"
     },
     {
-      "name": "Agent-Speaker",
-      "title": "Agent Speaker",
-      "description": "",
-      "artefacts": [
-        "audio"
-      ],
-      "updated": "2026-03-11"
-    },
-    {
       "name": "mailgraph",
       "title": "Mailgraph",
       "description": "",
@@ -48,18 +39,6 @@
     {
       "name": "unifi_management_cli",
       "title": "Unifi Management Cli",
-      "description": "",
-      "artefacts": [
-        "audio",
-        "video",
-        "infographic",
-        "slides"
-      ],
-      "updated": "2026-04-06"
-    },
-    {
-      "name": "agent-speaker",
-      "title": "Agent Speaker",
       "description": "",
       "artefacts": [
         "audio",
@@ -96,6 +75,18 @@
     {
       "name": "graphrag",
       "title": "Graphrag",
+      "description": "",
+      "artefacts": [
+        "audio",
+        "video",
+        "infographic",
+        "slides"
+      ],
+      "updated": "2026-04-06"
+    },
+    {
+      "name": "Agent-Speaker",
+      "title": "Agent Speaker",
       "description": "",
       "artefacts": [
         "audio",
