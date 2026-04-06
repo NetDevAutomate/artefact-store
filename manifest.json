@@ -80,6 +80,18 @@
         "slides"
       ],
       "updated": "2026-04-06"
+    },
+    {
+      "name": "speaker",
+      "title": "Speaker",
+      "description": "",
+      "artefacts": [
+        "audio",
+        "video",
+        "infographic",
+        "slides"
+      ],
+      "updated": "2026-04-06"
     }
   ]
 }
