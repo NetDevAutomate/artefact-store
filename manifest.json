@@ -68,6 +68,18 @@
         "slides"
       ],
       "updated": "2026-04-06"
+    },
+    {
+      "name": "aws_network_shell",
+      "title": "Aws Network Shell",
+      "description": "",
+      "artefacts": [
+        "audio",
+        "video",
+        "infographic",
+        "slides"
+      ],
+      "updated": "2026-04-06"
     }
   ]
 }
