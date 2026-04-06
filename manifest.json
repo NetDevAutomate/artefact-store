@@ -6,7 +6,9 @@
       "description": "",
       "artefacts": [
         "audio",
-        "video"
+        "video",
+        "infographic",
+        "slides"
       ],
       "updated": "2026-04-06"
     },
