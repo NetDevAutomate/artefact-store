@@ -92,6 +92,18 @@
         "slides"
       ],
       "updated": "2026-04-06"
+    },
+    {
+      "name": "graphrag",
+      "title": "Graphrag",
+      "description": "",
+      "artefacts": [
+        "audio",
+        "video",
+        "infographic",
+        "slides"
+      ],
+      "updated": "2026-04-06"
     }
   ]
 }
