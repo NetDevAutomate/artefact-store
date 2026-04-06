@@ -95,6 +95,18 @@
         "slides"
       ],
       "updated": "2026-04-06"
+    },
+    {
+      "name": "notebooklm-repo-artefacts",
+      "title": "Notebooklm Repo Artefacts",
+      "description": "",
+      "artefacts": [
+        "audio",
+        "video",
+        "infographic",
+        "slides"
+      ],
+      "updated": "2026-04-06"
     }
   ]
 }
