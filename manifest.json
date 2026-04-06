@@ -6,11 +6,9 @@
       "description": "",
       "artefacts": [
         "audio",
-        "video",
-        "infographic",
-        "slides"
+        "video"
       ],
-      "updated": "2026-04-04"
+      "updated": "2026-04-06"
     },
     {
       "name": "notebooklm-pdf-by-chapters",
